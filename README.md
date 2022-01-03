@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science, ReactJS, ReactNative & Laravel
 - 💞️ I’m looking to collaborate on Different Projects with multi-national companies.
 - 📫 How to reach me +923403169714 is my whatsapp number.
+- 📫 How to reach me officialwaqar707@gmail.com is my e-mail.
 
 <!---
 WaqarAhmad7007/WaqarAhmad7007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
